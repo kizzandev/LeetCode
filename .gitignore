@@ -1,0 +1,5 @@
+*.exe
+.vscode
+rust/*/target
+rust/*/Cargo.lock
+rust/*/Cargo.toml
