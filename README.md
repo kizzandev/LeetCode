@@ -27,8 +27,8 @@ graph LR;
 gantt
     section Array/Str
     Merge Strings Alternately               : done,   a0, 2000-01-01, 1d
-    Greatest Common Divisor of Strings      :         a,  2000-01-01, 1d
-    Kids With the Greatest Number of Candies:         a,  2000-01-01, 1d
+    Greatest Common Divisor of Strings      : done,   a,  2000-01-01, 1d
+    Kids With the Greatest Number of Candies: active, a,  2000-01-01, 1d
     Can Place Flowers                       :         a,  2000-01-01, 1d
     Reverse Vowels of a String              :         a,  2000-01-01, 1d
     Reverse Words in a String               :         a,  2000-01-01, 1d
