@@ -66,10 +66,10 @@ gantt
     Find Customer Referee          : done,   a , 2000-01-01, 1d
     Big Countries                  : done,   a , 2000-01-01, 1d
     Article Views I                : done,   a , 2000-01-01, 1d
-    Invalid Tweets                 : active, a , 2000-01-01, 1d
+    Invalid Tweets                 : done,   a , 2000-01-01, 1d
 
     section Basic Joins
-    Replace Employee ID With The Unique Identifier        :         a1, after a0, 1d
+    Replace Employee ID With The Unique Identifier        : active, a1, after a0, 1d
     Product Sales Analysis I                              :         a , after a0, 1d
     Customer Who Visited but Did Not Make Any Transactions:         a , after a0, 1d
     Rising Temperature                                    :         a , after a0, 1d
