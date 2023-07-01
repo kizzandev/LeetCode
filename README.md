@@ -11,11 +11,13 @@ graph LR;
     ROOT-->C++
     ROOT-->Python
     ROOT-->Rust
+    ROOT-->SQL
     C++-->Problem_x
     Python-->Problem_x
     Rust-->Problem_folder
     Problem_folder-->src
     src-->Problem_x
+    SQL-->Problem_y
 ```
 
 ## Gantt Chart
@@ -51,4 +53,16 @@ gantt
     section Prefix Sum
     Find the Highest Altitude:         a3, after a2, 1d
     Find Pivot Index         :         a , after a2, 1d
+```
+
+### SQL 50
+
+```mermaid
+gantt
+    section Select
+    Recyclable and Low Fat Products: done,   a0, 2000-01-01, 1d
+    Find Customer Referee          : active  a , 2000-01-01, 1d
+    Big Countries                  :         a , 2000-01-01, 1d
+    Article Views I                :         a , 2000-01-01, 1d
+    Invalid Tweets                 :         a , 2000-01-01, 1d
 ```
