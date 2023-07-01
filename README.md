@@ -67,4 +67,15 @@ gantt
     Big Countries                  : done,   a , 2000-01-01, 1d
     Article Views I                : done,   a , 2000-01-01, 1d
     Invalid Tweets                 : active, a , 2000-01-01, 1d
+
+    section Basic Joins
+    Replace Employee ID With The Unique Identifier        :         a1, after a0, 1d
+    Product Sales Analysis I                              :         a , after a0, 1d
+    Customer Who Visited but Did Not Make Any Transactions:         a , after a0, 1d
+    Rising Temperature                                    :         a , after a0, 1d
+    Average Time of Process per Machine                   :         a , after a0, 1d
+    Employee Bonus                                        :         a , after a0, 1d
+    Students and Examinations                             :         a , after a0, 1d
+    Managers with at Least 5 Direct Reports               :         a , after a0, 1d
+    Confirmation Rate                                     :         a , after a0, 1d
 ```
