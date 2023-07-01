@@ -7,11 +7,13 @@ A quick note: I'm learning Rust with this.
 ## Project structure
 
 ```mermaid
+%%{init: {'flowchart' : {'curve' : 'stepAfter'}}}%%
 graph LR;
+    ROOT((ROOT))
     ROOT-->C++
     ROOT-->Python
     ROOT-->Rust
-    ROOT-->SQL
+    ROOT-->SQL[("&nbsp;&nbsp;SQL&nbsp;&nbsp;")]
     C++-->Problem_x
     Python-->Problem_x
     Rust-->Problem_folder
