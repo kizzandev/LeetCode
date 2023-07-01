@@ -7,7 +7,7 @@ A quick note: I'm learning Rust with this.
 ## Project structure
 
 ```mermaid
-%%{init: {'flowchart' : {'curve' : 'stepAfter'}}}%%
+%%{init: {'flowchart' : {'curve' : 'linear'}}}%%
 graph LR;
     ROOT((ROOT))
     ROOT-->C++
