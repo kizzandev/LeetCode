@@ -42,71 +42,13 @@ gantt
     Container With Most Water:         a , after a0, 1d
     Max Number of K-Sum Pairs:         a , after a0, 1d
 
-    # section LeetCode 75 Sliding Window
-    # Merge Strings Alternately:         a0, 2000-01-01, 1d
-    # Merge Strings Alternately:         a0, 2000-01-01, 1d
-    # Merge Strings Alternately:         a0, 2000-01-01, 1d
-    # Merge Strings Alternately:         a0, 2000-01-01, 1d
+    section Sliding Window
+    Maximum Average Subarray I                             :         a2, after a1, 1d
+    Maximum Number of Vowels in a Substring of Given Length:         a , after a1, 1d
+    Max Consecutive Ones III                               :         a , after a1, 1d
+    Longest Subarray of 1's After Deleting One Element     :         a , after a1, 1d
 
-    # section LeetCode 75 Prefix Sum
-    # Merge Strings Alternately:         a0, 2000-01-01, 1d
-    # Merge Strings Alternately:         a0, 2000-01-01, 1d
-
-    # section LeetCode 75 To categorize
-    # Merge Strings Alternately:         a0, 2000-01-01, 1d
-    # Merge Strings Alternately:         a0, 2000-01-01, 1d
-    # Merge Strings Alternately:         a0, 2000-01-01, 1d
-    # Merge Strings Alternately:         a0, 2000-01-01, 1d
-    # Merge Strings Alternately:         a0, 2000-01-01, 1d
-    # Merge Strings Alternately:         a0, 2000-01-01, 1d
-    # Merge Strings Alternately:         a0, 2000-01-01, 1d
-    # Merge Strings Alternately:         a0, 2000-01-01, 1d
-    # Merge Strings Alternately:         a0, 2000-01-01, 1d
-    # Merge Strings Alternately:         a0, 2000-01-01, 1d
-    # Merge Strings Alternately:         a0, 2000-01-01, 1d
-    # Merge Strings Alternately:         a0, 2000-01-01, 1d
-    # Merge Strings Alternately:         a0, 2000-01-01, 1d
-    # Merge Strings Alternately:         a0, 2000-01-01, 1d
-    # Merge Strings Alternately:         a0, 2000-01-01, 1d
-    # Merge Strings Alternately:         a0, 2000-01-01, 1d
-    # Merge Strings Alternately:         a0, 2000-01-01, 1d
-    # Merge Strings Alternately:         a0, 2000-01-01, 1d
-    # Merge Strings Alternately:         a0, 2000-01-01, 1d
-    # Merge Strings Alternately:         a0, 2000-01-01, 1d
-    # Merge Strings Alternately:         a0, 2000-01-01, 1d
-    # Merge Strings Alternately:         a0, 2000-01-01, 1d
-    # Merge Strings Alternately:         a0, 2000-01-01, 1d
-    # Merge Strings Alternately:         a0, 2000-01-01, 1d
-    # Merge Strings Alternately:         a0, 2000-01-01, 1d
-    # Merge Strings Alternately:         a0, 2000-01-01, 1d
-    # Merge Strings Alternately:         a0, 2000-01-01, 1d
-    # Merge Strings Alternately:         a0, 2000-01-01, 1d
-    # Merge Strings Alternately:         a0, 2000-01-01, 1d
-    # Merge Strings Alternately:         a0, 2000-01-01, 1d
-    # Merge Strings Alternately:         a0, 2000-01-01, 1d
-    # Merge Strings Alternately:         a0, 2000-01-01, 1d
-    # Merge Strings Alternately:         a0, 2000-01-01, 1d
-    # Merge Strings Alternately:         a0, 2000-01-01, 1d
-    # Merge Strings Alternately:         a0, 2000-01-01, 1d
-    # Merge Strings Alternately:         a0, 2000-01-01, 1d
-    # Merge Strings Alternately:         a0, 2000-01-01, 1d
-    # Merge Strings Alternately:         a0, 2000-01-01, 1d
-    # Merge Strings Alternately:         a0, 2000-01-01, 1d
-    # Merge Strings Alternately:         a0, 2000-01-01, 1d
-    # Merge Strings Alternately:         a0, 2000-01-01, 1d
-    # Merge Strings Alternately:         a0, 2000-01-01, 1d
-    # Merge Strings Alternately:         a0, 2000-01-01, 1d
-    # Merge Strings Alternately:         a0, 2000-01-01, 1d
-    # Merge Strings Alternately:         a0, 2000-01-01, 1d
-    # Merge Strings Alternately:         a0, 2000-01-01, 1d
-    # Merge Strings Alternately:         a0, 2000-01-01, 1d
-    # Merge Strings Alternately:         a0, 2000-01-01, 1d
-    # Merge Strings Alternately:         a0, 2000-01-01, 1d
-    # Merge Strings Alternately:         a0, 2000-01-01, 1d
-    # Merge Strings Alternately:         a0, 2000-01-01, 1d
-    # Merge Strings Alternately:         a0, 2000-01-01, 1d
-    # Merge Strings Alternately:         a0, 2000-01-01, 1d
-    # Merge Strings Alternately:         a0, 2000-01-01, 1d
-    # Merge Strings Alternately:         a0, 2000-01-01, 1d
-    # Merge Strings Alternately:         a0, 2000-01-01, 1d
+    section Prefix Sum
+    Find the Highest Altitude:         a3, after a2, 1d
+    Find Pivot Index         :         a , after a2, 1d
 ```
