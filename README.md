@@ -63,7 +63,7 @@ gantt
 gantt
     section Select
     Recyclable and Low Fat Products: done,   a0, 2000-01-01, 1d
-    Find Customer Referee          : active  a , 2000-01-01, 1d
+    Find Customer Referee          : active, a , 2000-01-01, 1d
     Big Countries                  :         a , 2000-01-01, 1d
     Article Views I                :         a , 2000-01-01, 1d
     Invalid Tweets                 :         a , 2000-01-01, 1d
