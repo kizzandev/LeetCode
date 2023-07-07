@@ -26,14 +26,14 @@ graph LR;
 
 ### LeetCode 75
 
-<!-- title : (empyty|active|done) , name , after name , 1d -->
+<!-- title : (empty|active|done) , name , after name , 1d -->
 ```mermaid
 gantt
     section Array/Str
     Merge Strings Alternately               : done,   a0, 2000-01-01, 1d
     Greatest Common Divisor of Strings      : done,   a,  2000-01-01, 1d
-    Kids With the Greatest Number of Candies: active, a,  2000-01-01, 1d
-    Can Place Flowers                       :         a,  2000-01-01, 1d
+    Kids With the Greatest Number of Candies: done,   a,  2000-01-01, 1d
+    Can Place Flowers                       : active  a,  2000-01-01, 1d
     Reverse Vowels of a String              :         a,  2000-01-01, 1d
     Reverse Words in a String               :         a,  2000-01-01, 1d
     Product of Array Except Self            :         a,  2000-01-01, 1d
