@@ -4,7 +4,15 @@ Solutions for LeetCode in C++, Python, and Rust.
 
 A quick note: I'm learning Rust with this.
 
+![Leetcode Stats](https://leetcard.jacoblin.cool/kevinzanzi?hide=ranking,easy-solved-count,medium-solved-count,hard-solved-count&font=Edu+TAS+Beginner)
+
+
 ## Project structure
+
+<details>
+<summary>
+Click to expand!
+</summary>
 
 ```mermaid
 %%{init: {'flowchart' : {'curve' : 'linear'}}}%%
@@ -21,10 +29,16 @@ graph LR;
     src-->Problem_x
     SQL-->Problem_y
 ```
+</details>
 
 ## Gantt Chart
 
 ### LeetCode 75
+
+<details>
+<summary>
+Click to expand!
+</summary>
 
 <!-- title : (empty|active|done) , name , after name , 1d -->
 ```mermaid
@@ -56,8 +70,14 @@ gantt
     Find the Highest Altitude:         a3, after a2, 1d
     Find Pivot Index         :         a , after a2, 1d
 ```
+</details>
 
 ### SQL 50
+
+<details>
+<summary>
+Click to expand!
+</summary>
 
 ```mermaid
 gantt
@@ -79,3 +99,4 @@ gantt
     Managers with at Least 5 Direct Reports               :         a , after a0, 1d
     Confirmation Rate                                     :         a , after a0, 1d
 ```
+</details>
