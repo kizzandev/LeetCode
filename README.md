@@ -1,8 +1,9 @@
 # LeetCode
 
-Solutions for LeetCode in C++, Python, and Rust.
+Solutions for LeetCode in <s>***C++***</s>\*, ***Python***, ***Rust***\*\*, and ***SQL***.
 
-A quick note: I'm learning Rust with this.
+\* Discontinued. Existing C++ solutions are kept for reference.\
+\*\* Currently learning Rust with the problems provided.
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/kevinzanzi?hide=ranking,easy-solved-count,medium-solved-count,hard-solved-count&font=Edu+TAS+Beginner)
 
