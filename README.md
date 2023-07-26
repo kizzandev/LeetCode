@@ -92,8 +92,8 @@ gantt
     section Basic Joins
     Replace Employee ID With The Unique Identifier        : done,   a1, after a0, 1d
     Product Sales Analysis I                              : done,   a , after a0, 1d
-    Customer Who Visited but Did Not Make Any Transactions: active, a , after a0, 1d
-    Rising Temperature                                    :         a , after a0, 1d
+    Customer Who Visited but Did Not Make Any Transactions: done,   a , after a0, 1d
+    Rising Temperature                                    : active, a , after a0, 1d
     Average Time of Process per Machine                   :         a , after a0, 1d
     Employee Bonus                                        :         a , after a0, 1d
     Students and Examinations                             :         a , after a0, 1d
