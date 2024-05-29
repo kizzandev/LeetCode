@@ -5,8 +5,9 @@ Solutions for LeetCode in <s>***C++***</s>\*, ***Python***, ***Rust***\*\*, and 
 \* Discontinued. Existing C++ solutions are kept for reference.\
 \*\* Currently learning Rust with the problems provided.
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/kevinzanzi?hide=ranking,easy-solved-count,medium-solved-count,hard-solved-count&font=Edu+TAS+Beginner)
+![Leetcode Stats](https://leetcard.jacoblin.cool/kizzandev?hide=ranking,easy-solved-count,medium-solved-count,hard-solved-count&font=Edu+TAS+Beginner)
 
+<!-- -->
 
 ## Project structure
 
@@ -28,9 +29,73 @@ graph LR;
     Rust-->Problem_folder
     Problem_folder-->src
     src-->Problem_x
-    SQL-->Problem_y
+    SQL-->Problem_x
 ```
 </details>
+
+## Custom map
+
+<!--<details>
+<summary>
+Click to expand!
+</summary>-->
+
+<!-- type: HIGHLIGHT -->
+
+```mermaid
+%%{init: { 'logLevel': 'debug', 'theme': 'dark', 'gitGraph': {'showBranches': true, 'parallelCommits':true}, 'themeVariables': {
+              'commitLabelBackground': '#00000000',
+              'commitLabelColor': '#ffffff',
+              'commitLabelFontSize': '16px',
+              'gitInv0': '#00ff00'
+       } } }%%
+gitGraph
+    branch arrHash
+    checkout arrHash
+    commit id: "242. Valid Anagram" tag:"🟢"
+    commit id: "49. Group Anagrams" tag:"🟡"
+    commit id: "238. Product of Array Except Self" tag:"🟡"
+    commit id: "36. Valid Sudoku" tag:"🟡"
+    commit id: "347. Top K Frequent Elements" tag:"🟡"
+    commit id: "128. Longest Consecutive Sequence" tag:"🟡"
+    commit id: "121. Best Time to Buy and Sell Stock" tag:"🟢"
+    commit id: "65. Valid Number" tag:"🔴"
+    branch stack
+    checkout stack
+    commit id: "155. Min Stack" tag:"🟡"
+    commit id: "150. Evaluate Reverse Polish Notation" tag:"🟡"
+    commit id: "739. Daily Temperatures" tag:"🟡"
+    commit id: "84. Largest Rectangle in Histogram" tag:"🔴"
+    branch twoPointers
+    checkout twoPointers
+    commit id: "125. Valid Palindrome" tag:"🟢"
+    commit id: "167. Two Sum II - Input Array is Sorted" tag:"🟡"
+    commit id: "42. Trapping Rain Water" tag:"🔴"
+    branch slidingWindow
+    checkout slidingWindow
+    commit id: "3. Longest Substring Without Repeating Characters" tag:"🟡"
+    commit id: "76. Minimum Window Substring" tag:"🔴"
+    commit id: "239. Sliding Window Maximum" tag:"🔴"
+    branch linkedList
+    checkout linkedList
+    commit id: "206. Reverse Linked List" tag:"🟢"
+    commit id: "21. Merge Two Sorted Lists" tag:"🟢"
+    # branch binarySearch
+    # checkout binarySearch
+    # branch trees
+    # checkout trees
+    # branch heap
+    # checkout heap
+    # branch backtracking
+    # checkout backtracking
+    # branch graphs
+    # checkout graphs
+    # branch moreGraphs
+    # checkout moreGraphs
+    # branch dynProgramming
+    # checkout dynProgramming
+```
+<!--</details>-->
 
 ## Gantt Chart
 
